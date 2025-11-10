@@ -19,7 +19,7 @@
 
 The starter application is provided in the `react-cicd-demo/` directory. Copy this entire directory to begin the exercise.
 
-## Team Setup (5 minutes)
+## Team Setup (5 minutes)  
 
 **This is a team exercise. One team member should:**
 
